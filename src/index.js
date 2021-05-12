@@ -42,5 +42,5 @@ class CountdownTimer {
   }
 };
 
-const time = new CountdownTimer('timer-1', '2021, 5, 13');
+const time = new CountdownTimer('timer-1', '2021, 5, 15');
 time.start();
